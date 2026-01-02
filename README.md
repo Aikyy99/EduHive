@@ -205,3 +205,5 @@ Agar savollaringiz bo'lsa, issue oching yoki email yuboring.
 ## 📄 Litsenziya
 
 Bu loyiha shaxsiy loyiha sifatida yaratilgan.
+
+<!-- Update 1 -->
