@@ -251,3 +251,5 @@ Bu loyiha shaxsiy loyiha sifatida yaratilgan.
 <!-- Update 22 -->
 
 <!-- Update 23 -->
+
+<!-- Update 24 -->
